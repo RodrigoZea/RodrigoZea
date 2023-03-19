@@ -1,5 +1,5 @@
-### Hi there 👋
-
+<h1 align="center">Hi 👋, I'm Rodrigo</h1>
+<h3 align="center">Front end development enjoyer, wannabe game dev. Jack of a lot of trades.</h3>
 <!--
 **RodrigoZea/RodrigoZea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
