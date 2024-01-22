@@ -5,8 +5,6 @@
 - 🌱 I’m currently learning: Three.js, React Three Fiber
 - 💬 Ask me about: anything related to frontend, designing user experiences or general design.
 - 📫 How to reach me: reach me on twitter or via email!
-- 😄 Pronouns: they/them 
-
 
 
 <p align="center">
